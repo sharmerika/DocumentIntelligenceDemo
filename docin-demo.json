@@ -1,0 +1,28 @@
+{
+  "documents": [
+    {
+      "fields": {
+        "FirstName": {
+          "value": "MELITUNA",
+          "confidence": 0.98
+        },
+        "LastName": {
+          "value": "NAPALIT",
+          "confidence": 0.97
+        },
+        "DateOfBirth": {
+          "value": "1957-09-07",
+          "confidence": 0.99
+        },
+        "DocumentNumber": {
+          "value": "1999-256",
+          "confidence": 0.85
+        }
+      },
+      "documentType": "birthCertificate",
+      "boundingRegions": [],
+      "spans": [],
+      "confidence": 0.95
+    }
+  ]
+}
